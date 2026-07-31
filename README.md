@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Mert Kemal 👋
 
-<!--
-**MerttKemal/MerttKemal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Frontend Developer** dedicated to crafting clean, responsive, and user-friendly web applications. I love turning ideas into functional, deployed projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 **Currently:** Building modern, scalable, and responsive web applications.
+- 💻 **Focus:** Writing clean, efficient code and delivering seamless user experiences.
+- 💼 **Open to:** Web development opportunities and collaborative projects.
+- 📫 **Contact:** kemalinho1905@gmail.com
+
+---
+
+### 🛠 Tech Stack
+- **Core:** HTML5, CSS3, JavaScript (ES6+)
+- **Tools & Workflow:** Git, GitHub, Modern Web Tools
+- **UI & Styling:** Responsive Design, CSS Frameworks
+
+---
+
+🌐 **Live Projects:** Check out my pinned repositories below to see my deployed sites!
