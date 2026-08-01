@@ -13,7 +13,7 @@ A passionate **Frontend Developer** dedicated to crafting clean, responsive, and
 ---
 
 ### 🛠 Tech Stack
-- **Core:** HTML5, CSS3, JavaScript (ES6+)
+- **Core:** HTML5, CSS4, TypeScript, JavaScript (ES6+)
 - **Tools & Workflow:** Git, GitHub, Modern Web Tools
 - **UI & Styling:** Responsive Design, CSS Frameworks
 
