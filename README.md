@@ -1,4 +1,4 @@
-# Hi there, I'm Mert Kemal 👋
+# Hi there, I'm Mustafa 👋
 
 A passionate **Frontend Developer** dedicated to crafting clean, responsive, and user-friendly web applications. I love turning ideas into functional, deployed projects.
 
